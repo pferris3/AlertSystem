@@ -7,7 +7,7 @@
  * This class creates an SMS service to alert a user via text. It implements the NotificationMedium interface. 
  * 
  * @author Paul Ferris
- * @version 1.0.0
+ * @version 1.0.0 
  */
 
 public class EmailService implements NotificationMedium {

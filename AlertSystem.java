@@ -7,7 +7,7 @@ import java.util.ArrayList;
  * messages.
  * 
  * @author Paul Ferris
- * @version 1.0.0
+ * @version 1.0.0 
  */
 
 public class AlertSystem {

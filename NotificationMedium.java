@@ -7,7 +7,7 @@
  * This interface lays the framework for notification systems including a method to send a message.
  * 
  * @author Paul Ferris
- * @version 1.0.0
+ * @version 1.0.0 
  */
 
 public interface NotificationMedium {
