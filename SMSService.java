@@ -23,5 +23,4 @@ public class SMSService implements NotificationMedium {
         System.out.println("SMS: " + str);
     }
 
-}
- 
+} 
